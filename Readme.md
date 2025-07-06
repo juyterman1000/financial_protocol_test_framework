@@ -1,4 +1,4 @@
-# Financial Protocol Test Framework
+# Financial Protocol Framework
 
 A modular and extensible Python framework to simulate and validate financial messaging protocols such as FIX, Binary, TCP, and Multicast.
 
